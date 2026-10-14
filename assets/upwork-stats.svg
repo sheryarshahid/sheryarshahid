@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1240" height="150" viewBox="0 0 1240 150">
 <defs><linearGradient id="amber" x1="0" x2="1"><stop offset="0" stop-color="#F9A825"/><stop offset="1" stop-color="#F57F17"/></linearGradient>
-<style>text{font-family:'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif;} .in{animation:up .7s cubic-bezier(.2,.8,.2,1) both}
+<style>text{font-family:'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif;} .in{}
 @keyframes up{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}</style></defs>
 <g class="in" style="animation-delay:0.00s">
   <rect x="0" y="0" width="236" height="150" rx="18" fill="#111C35" stroke="#24324F"/>
