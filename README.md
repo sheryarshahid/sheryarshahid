@@ -1,4 +1,4 @@
-<a href="https://www.upwork.com/freelancers/rajasheryar"><img src="assets/header.svg" alt="Raja Sheryar Shahid, Top Rated Plus WordPress, Webflow, Framer and Shopify developer" width="100%"/></a>
+<a href="https://www.upwork.com/freelancers/rajasheryar"><img src="assets/header-v2.svg" alt="Raja Sheryar Shahid, Top Rated Plus WordPress, Webflow, Framer and Shopify developer" width="100%"/></a>
 
 <p align="center">
   <a href="https://www.upwork.com/freelancers/rajasheryar"><img src="https://img.shields.io/badge/Upwork-Top%20Rated%20Plus-F9A825?style=for-the-badge&logo=upwork&logoColor=0B1220&labelColor=0B1220" alt="Top Rated Plus on Upwork"/></a>
@@ -17,7 +17,7 @@ I also run **SOFT IT LAND**, a small web agency on Upwork.
 
 ## 🏆 Track record on Upwork
 
-<img src="assets/upwork-stats.svg" alt="Top Rated Plus, $500K+ earned, 926 jobs, 15,678 hours, 97% Job Success" width="100%"/>
+<img src="assets/upwork-stats-v2.svg" alt="Top Rated Plus, $500K+ earned, 926 jobs, 15,678 hours, 97% Job Success" width="100%"/>
 
 ## 🛠️ What I build
 
@@ -30,7 +30,7 @@ I also run **SOFT IT LAND**, a small web agency on Upwork.
 | **Figma** | UI/UX design, design systems, Figma to pixel-perfect code |
 | **Also** | HubSpot CMS, GoHighLevel, Squarespace, Wix, React and Next.js |
 
-<img src="assets/stack.svg" alt="Tech stack: WordPress, Webflow, Framer, Shopify, HubSpot, Figma, Elementor, WooCommerce, React, Next.js, PHP and more" width="100%"/>
+<img src="assets/stack-v2.svg" alt="Tech stack: WordPress, Webflow, Framer, Shopify, HubSpot, Figma, Elementor, WooCommerce, React, Next.js, PHP and more" width="100%"/>
 
 <img src="assets/divider.svg" width="100%"/>
 
